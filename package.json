@@ -1,0 +1,24 @@
+{
+  "name": "gdrive-transfer-agent",
+  "version": "1.0.0",
+  "description": "Continuous coding agent for automated development workflow",
+  "main": "agent-workflow/continuous-agent.js",
+  "scripts": {
+    "agent": "node agent-workflow/continuous-agent.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automation",
+    "github",
+    "continuous-development",
+    "agent"
+  ],
+  "author": "Continuous Coding Agent",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^20.0.2"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
