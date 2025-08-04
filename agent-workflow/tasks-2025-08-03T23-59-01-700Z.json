@@ -1,0 +1,14 @@
+[
+  {
+    "id": "test-task-1",
+    "title": "Test Task",
+    "description": "A test task for validation",
+    "type": "test",
+    "priority": "low",
+    "estimatedHours": 1,
+    "files": [
+      "test.txt"
+    ],
+    "createdAt": "2025-08-03T23:59:01.700Z"
+  }
+]

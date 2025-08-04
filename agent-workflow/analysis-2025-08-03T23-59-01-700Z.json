@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-08-03T23:59:01.700Z",
+  "totalPRs": 1,
+  "recentPRs": [
+    {
+      "number": 99,
+      "title": "Test PR",
+      "summary": "Test PR for validation"
+    }
+  ]
+}

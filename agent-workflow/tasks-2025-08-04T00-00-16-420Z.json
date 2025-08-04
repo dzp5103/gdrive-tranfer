@@ -1,0 +1,15 @@
+[
+  {
+    "id": "notebook-enhance-1754265616419",
+    "createdAt": "2025-08-04T00:00:16.419Z",
+    "priority": "medium",
+    "category": "enhancement",
+    "title": "Add error handling to notebook",
+    "description": "Improve error handling and user feedback in the Google Drive transfer notebook",
+    "type": "feature",
+    "estimatedHours": 4,
+    "files": [
+      "rclone_gdrive_transfer.ipynb"
+    ]
+  }
+]
